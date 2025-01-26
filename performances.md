@@ -1,6 +1,5 @@
 ## Overall Performances
 
-N represents Normalized Discounted Cumulative Gain(NDCG) and H represents Hit Ratio (HR).
 
 | Dataset             | Metric  | Caser   | GRU4Rec | SASRec  | BERT4Rec | CL4SRec | ContrastVAE | DuoRec  | FMLPRec | FEARec  | BSARec  | ICLRec  | ELCRec  | ICSRec  | FICLRec      | improve.  |  
 |---------------------|---------|---------|---------|---------|----------|---------|-------------|---------|---------|---------|---------|---------|---------|---------|--------------|-----------|  
