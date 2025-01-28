@@ -2,6 +2,15 @@
 
 This is our Pytorch implementation for the paper: "**FICLRec: Frequency Enhanced Intent Contrastive Learning for Sequential Recommendation**".
 
+# Code Release Notice
+This repository currently includes only parameter files and log files related to the experiments. The core implementation is not publicly available at this time.
+
+The full code will be released after the paper is officially accepted.
+
+If you are interested in this work, feel free to follow future updates or refer to the paper to implement the method independently.
+
+Thank you for your understanding and support!
+
 ## Environment  Requirement
 
 * Pytorch>=1.11.0
