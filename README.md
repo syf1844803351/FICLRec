@@ -104,9 +104,6 @@ bash toys.sh
 bash Yelp.sh
 bash LastFM.sh
 ```
-## Acknowledgment
-
-- Transformer and training pipeline are implemented based on [ICSRec](https://github.com/qinhsiu/icsrec) and [BSARec](https://github.com/yehjin-shin/BSARec). Thanks them for providing efficient implementation.
 
 
 
