@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ## Evaluate Model
 
-We provide the trained models on Beauty, Sports_and_Outdoors, Toys_and_Games and ML-1M datasets in `./src/output/<Data_name>`folder. You can directly evaluate the trained models on test set by running:
+We provide the trained models on Beauty, Sports_and_Outdoors, Toys_and_Games , Yelp and LastFM datasets in `./src/output/<Data_name>`folder. You can directly evaluate the trained models on test set by running:
 
 ```
 python main.py --data_name <Data_name> --model_idx 0 --p <p> --do_eval
