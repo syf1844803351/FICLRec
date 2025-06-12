@@ -99,5 +99,25 @@ bash LastFM.sh
 
 - Transformer and training pipeline are implemented based on [ICSRec](https://github.com/qinhsiu/icsrec) and [BSARec](https://github.com/yehjin-shin/BSARec). Thanks them for providing efficient implementation.
 
+## Citation
+
+```
+@article{su2025ficlrec,
+title = {FICLRec: Frequency enhanced intent contrastive learning for sequential recommendation},
+author = {Yifeng Su and Xiaodong Cai and Ting Li},
+journal = {Information Processing & Management},
+volume = {62},
+number = {6},
+pages = {104231},
+year = {2025},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2025.104231},
+url = {https://www.sciencedirect.com/science/article/pii/S0306457325001724},
+publisher={Elsevier}
+}
+
+```
+- Please kindly cite our paper if this paper and the code are helpful. 
+
 
 
